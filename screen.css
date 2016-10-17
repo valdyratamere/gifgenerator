@@ -1,0 +1,15 @@
+
+ 
+@media print and (max-width:640px){
+ 
+ #menu, #footer, aside {
+  display: none;
+ }
+ body {
+  font-size: 120%;
+  color: black;
+ }
+ 
+}
+ 
+ 
